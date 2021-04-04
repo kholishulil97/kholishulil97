@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kholishulil97
+- 👀 I’m interested in web and android development
+- 🌱 I’m currently learning PHP (CodeIgniter) and Java
+- 📫 How to reach me kholishulil.ku@gmail.com
